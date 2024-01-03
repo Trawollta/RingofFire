@@ -12,9 +12,9 @@ import {MatIconModule} from '@angular/material/icon';
   standalone: true,
   imports: [
     CommonModule,
+    MatIconModule,
     RouterOutlet,
     MatButtonModule,
-    MatIconModule
   ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
