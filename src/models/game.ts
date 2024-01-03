@@ -31,5 +31,5 @@ export class Game {
             array[randomIndex], array[currentIndex]];
         }
         return array;
-    }   
+    }
 }
